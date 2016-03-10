@@ -1,0 +1,110 @@
+[
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Carlton Street Multi Storey Car Park",
+    "Address": "Carlton Street",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 1UA",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 10,
+    "Charge": "Free",
+    "Date info Captured": "2013-05-22"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Grove Car Park",
+    "Address": "Grove Road",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 2AA",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 4,
+    "Charge": "Free",
+    "Date info Captured": "2011-02-08"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Hampton Car Park",
+    "Address": "Raglan Place",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 2DU",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 3,
+    "Charge": "Free",
+    "Date info Captured": "2012-05-01"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Knightstone Causeway",
+    "Address": "Knightstone Causeway",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 2AD",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 3,
+    "Charge": "Free",
+    "Date info Captured": "2011-02-08"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Marine Parade (Clifton Link Road)",
+    "Address": "Marine Parade",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 1BE",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 8,
+    "Charge": "Free",
+    "Date info Captured": "2011-02-08"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Marine Parade/Beach Road Motorcycle Park",
+    "Address": "Marine Parade",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 1AT",
+    "Parking Type": "Dedicated Motorcycle Park",
+    "No. of Bays": 50,
+    "Charge": "Free",
+    "Date info Captured": "2011-02-08"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Melrose Car Park",
+    "Address": "Knightsone Road",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 2BE",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 6,
+    "Charge": "Free",
+    "Date info Captured": "2012-05-01"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Union Street",
+    "Address": "Union Street",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS23 1TG",
+    "Parking Type": "On-street",
+    "No. of Bays": 6,
+    "Charge": "Free",
+    "Date info Captured": "2011-02-07"
+  },
+  {
+    "Publisher Label": "North Somerset Council",
+    "Publisher URI": "http://opendatacommunities.org/id/unitary-authority/north-somerset",
+    "Motorcycle Parking Name": "Worle Parkway (Diamond Batch) Car Park",
+    "Address": "Diamond Batch",
+    "Town": "Weston-super-Mare",
+    "Postcode": "BS24 7FY",
+    "Parking Type": "Off-street Car/Motorcycle park",
+    "No. of Bays": 16,
+    "Charge": "Free",
+    "Date info Captured": "2013-09-02"
+  }
+]
